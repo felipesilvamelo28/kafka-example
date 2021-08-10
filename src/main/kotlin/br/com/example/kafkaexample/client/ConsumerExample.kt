@@ -1,4 +1,4 @@
-package br.com.boticario.kafkaexample.client
+package br.com.example.kafkaexample.client
 
 import org.apache.kafka.clients.consumer.ConsumerConfig.*
 import org.apache.kafka.clients.consumer.KafkaConsumer

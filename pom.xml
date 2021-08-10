@@ -8,7 +8,7 @@
 		<version>2.5.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.boticario</groupId>
+	<groupId>br.com.example</groupId>
 	<artifactId>kafkaexample</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>kafka-example</name>

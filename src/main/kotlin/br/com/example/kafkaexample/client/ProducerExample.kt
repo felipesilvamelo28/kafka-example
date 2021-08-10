@@ -1,4 +1,4 @@
-package br.com.boticario.kafkaexample.client
+package br.com.example.kafkaexample.client
 
 import org.apache.kafka.clients.producer.KafkaProducer
 import org.apache.kafka.clients.producer.ProducerConfig.*

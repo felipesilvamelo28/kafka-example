@@ -38,5 +38,8 @@ services:
     depends_on:
       - kafka1
 
-# Gerenciador do Kafka para navegador (porta local 9000):
-# https://github.com/obsidiandynamics/kafdrop
+#Sobre o Zookeeper: https://dattell.com/data-architecture-blog/what-is-zookeeper-how-does-it-support-kafka/
+#Detalhes das variáveis de ambiente:
+#Zookeper: https://hub.docker.com/_/zookeeper
+#Kafka: https://docs.confluent.io/platform/current/kafka/multi-node.html
+#Kafdrop: https://github.com/obsidiandynamics/kafdrop

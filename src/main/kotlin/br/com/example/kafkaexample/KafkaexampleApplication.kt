@@ -1,4 +1,4 @@
-package br.com.boticario.kafkaexample
+package br.com.example.kafkaexample
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
